@@ -229,7 +229,7 @@ Nᴀᴍᴇ : {}
 
 Mᴇꜱꜱᴀɢᴇ : <b>{}</b>"""
     
-    CAPTION = """<b><a href="https://t.me/+lvflQf4E_j9hMjM1">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/+y5MSJviCuZA0ZDA9">[ TFIGHOSTBOT ]</a></b>"""
+    CAPTION = """<b><a href="https://t.me/+lvflQf4E_j9hMjM1">{file_name}</a></b>\n\n<b>⚜️ Powered By : <a href="https://t.me/HiTLERYTofficial">[ HITLERYTOFFICIAL ]</a></b>"""
 
     
     MOVIE_UPDATE_NOTIFY_TXT = """
